@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Akshay Khairkar</title>
+    <link>https://akshaykhairkar.github.io/portfolio/home/</link>
+    <description>Recent content in Homes on Akshay Khairkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Akshay Khairkar</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://akshaykhairkar.github.io/portfolio/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://akshaykhairkar.github.io/portfolio/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p&gt;Currently a final Year student pursuing B.Tech.Information Technology at VJTI Mumbai. I did my schooling and junior college from Dnyanmata High School , Amravati and Shri Shivaji Science College , Amravati respectively. I have keen research interest and practical exposure in the field of Information Technology , especially Database Handling , Web Technology &amp;amp; Networking. Also interested in seeking internship opportunities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Interests</title>
+      <link>https://akshaykhairkar.github.io/portfolio/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/home/teaching/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Collecting Coins.&lt;/li&gt;
+&lt;li&gt;Listening to AKCENT (Music Band).&lt;/li&gt;
+&lt;li&gt;Astronomy.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

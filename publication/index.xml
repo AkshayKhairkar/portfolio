@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Akshay Khairkar</title>
+    <link>https://akshaykhairkar.github.io/portfolio/publication/</link>
+    <description>Recent content in Publications on Akshay Khairkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Akshay Khairkar</copyright>
+    <lastBuildDate>Mon, 11 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://akshaykhairkar.github.io/portfolio/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>General Secretary, Rangawardhan 2015</title>
+      <link>https://akshaykhairkar.github.io/portfolio/publication/gs-ranga/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/publication/gs-ranga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Head – Kawadasa (One Act Play), Rangawardhan&#39;14</title>
+      <link>https://akshaykhairkar.github.io/portfolio/publication/event-head/</link>
+      <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/publication/event-head/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsorship Manager– Rangawardhan&#39;14</title>
+      <link>https://akshaykhairkar.github.io/portfolio/publication/spons-manager/</link>
+      <pubDate>Fri, 11 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/publication/spons-manager/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

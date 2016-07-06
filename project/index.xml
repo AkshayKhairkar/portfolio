@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Akshay Khairkar</title>
+    <link>https://akshaykhairkar.github.io/portfolio/project/</link>
+    <description>Recent content in Projects on Akshay Khairkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Akshay Khairkar</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://akshaykhairkar.github.io/portfolio/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Credit card Application Process Automation</title>
+      <link>https://akshaykhairkar.github.io/portfolio/project/credit-card-automator/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/project/credit-card-automator/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Team Members : 4&lt;/li&gt;
+&lt;li&gt;Project Description: We build a system to automate the offline credit card application process by making use of OCR technology to submit the application for a credit card. Developed an algorithm to provide a decision on the application and an UI in the form of a web application.&lt;/li&gt;
+&lt;li&gt;Role Played :
+
+&lt;ul&gt;
+&lt;li&gt;Studied and implemented open source OCR library “OCRAD” in the form of Ocrad.js a pure javascript version of the OCRAD project.&lt;/li&gt;
+&lt;li&gt;Developed an algorithm to generate applicants credit score based on parameters such as CIBIL score, financial assets, etc.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Book Buying Selling Portal (Database System)</title>
+      <link>https://akshaykhairkar.github.io/portfolio/project/buying-selling-portal/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/project/buying-selling-portal/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Team Members : 5&lt;/li&gt;
+&lt;li&gt;Project Description: We designed a web application which basically allows users to register, post the ads,view
+others ads, update &amp;amp; delete the information pertaining to a particular item.&lt;/li&gt;
+&lt;li&gt;Role Played :
+
+&lt;ul&gt;
+&lt;li&gt;Gathered requirements for the Project.&lt;/li&gt;
+&lt;li&gt;Designed a Relational Database Model through Schemas, ER Diagram, Dataflow models.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python Packet Sniffer</title>
+      <link>https://akshaykhairkar.github.io/portfolio/project/python-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/project/python-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Individual Project&lt;/li&gt;
+&lt;li&gt;A python based network packet sniffer that captures the packet , analyzes it and displays the information such as header contents and data present in it by unpacking the packets at each layer.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

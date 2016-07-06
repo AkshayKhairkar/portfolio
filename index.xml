@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akshay Khairkar</title>
+    <link>https://akshaykhairkar.github.io/portfolio/</link>
+    <description>Recent content on Akshay Khairkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Akshay Khairkar</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://akshaykhairkar.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Credit card Application Process Automation</title>
+      <link>https://akshaykhairkar.github.io/portfolio/project/credit-card-automator/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/project/credit-card-automator/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Team Members : 4&lt;/li&gt;
+&lt;li&gt;Project Description: We build a system to automate the offline credit card application process by making use of OCR technology to submit the application for a credit card. Developed an algorithm to provide a decision on the application and an UI in the form of a web application.&lt;/li&gt;
+&lt;li&gt;Role Played :
+
+&lt;ul&gt;
+&lt;li&gt;Studied and implemented open source OCR library “OCRAD” in the form of Ocrad.js a pure javascript version of the OCRAD project.&lt;/li&gt;
+&lt;li&gt;Developed an algorithm to generate applicants credit score based on parameters such as CIBIL score, financial assets, etc.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Book Buying Selling Portal (Database System)</title>
+      <link>https://akshaykhairkar.github.io/portfolio/project/buying-selling-portal/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/project/buying-selling-portal/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Team Members : 5&lt;/li&gt;
+&lt;li&gt;Project Description: We designed a web application which basically allows users to register, post the ads,view
+others ads, update &amp;amp; delete the information pertaining to a particular item.&lt;/li&gt;
+&lt;li&gt;Role Played :
+
+&lt;ul&gt;
+&lt;li&gt;Gathered requirements for the Project.&lt;/li&gt;
+&lt;li&gt;Designed a Relational Database Model through Schemas, ER Diagram, Dataflow models.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python Packet Sniffer</title>
+      <link>https://akshaykhairkar.github.io/portfolio/project/python-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/project/python-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Individual Project&lt;/li&gt;
+&lt;li&gt;A python based network packet sniffer that captures the packet , analyzes it and displays the information such as header contents and data present in it by unpacking the packets at each layer.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://akshaykhairkar.github.io/portfolio/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p&gt;Currently a final Year student pursuing B.Tech.Information Technology at VJTI Mumbai. I did my schooling and junior college from Dnyanmata High School , Amravati and Shri Shivaji Science College , Amravati respectively. I have keen research interest and practical exposure in the field of Information Technology , especially Database Handling , Web Technology &amp;amp; Networking. Also interested in seeking internship opportunities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>General Secretary, Rangawardhan 2015</title>
+      <link>https://akshaykhairkar.github.io/portfolio/publication/gs-ranga/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/publication/gs-ranga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Head – Kawadasa (One Act Play), Rangawardhan&#39;14</title>
+      <link>https://akshaykhairkar.github.io/portfolio/publication/event-head/</link>
+      <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/publication/event-head/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsorship Manager– Rangawardhan&#39;14</title>
+      <link>https://akshaykhairkar.github.io/portfolio/publication/spons-manager/</link>
+      <pubDate>Fri, 11 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/publication/spons-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Interests</title>
+      <link>https://akshaykhairkar.github.io/portfolio/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshaykhairkar.github.io/portfolio/home/teaching/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Collecting Coins.&lt;/li&gt;
+&lt;li&gt;Listening to AKCENT (Music Band).&lt;/li&gt;
+&lt;li&gt;Astronomy.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
